@@ -59,7 +59,6 @@ The model is developed in **SolidWorks** based on real engineering design parame
 
 * Part files (.SLDPRT)
 * Assembly files (.SLDASM)
-* Drawings (if available)
 
 ---
 
